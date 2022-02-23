@@ -1,0 +1,43 @@
+body {
+    background-image: url(./assets/pastel.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-size: larger;
+}
+
+h4 {
+    font-size: large;
+}
+
+li {
+    font-size: medium;
+}
+
+.projects {
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 1em;
+}
+
+.contactSection {
+    margin-left: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 1em;
+}
+
+.footer {
+    margin-top: 10px;
+    text-align: center;
+    font-size: x-small;
+}
+
